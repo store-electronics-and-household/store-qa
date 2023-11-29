@@ -16,7 +16,7 @@
 Работа с инструментами:
 
 Miro.com
-•	MindMap по проекту - https://miro.com/app/board/uXjVNVNh_eQ=/ 
+•	MindMap по проекту - https://miro.com/app/board/uXjVNVNh_eQ=/
 •	Доступ по запросу.
 
 Qase.io
@@ -30,7 +30,7 @@ Qase.io
 Видео инструкция находится по ссылке: https://disk.yandex.ru/i/3Vkk3g4UfJUSiA
 
 !!! Важные моменты:
-•	Когда мы создаем Test Runs в название тест рана ставим дату и в [] и пишем свою фамилию (пример: 2023/11/09 [Петров])
+•	Когда мы создаем Test Runs в название тест рана ставим дату и в [] и пишем свою фамилию (пример: Главная страница - Шапка сайта / 29.11.2023 [Петров])
 •	В баг репортах так же в конце указываем [] и пишем свою фамилию
 •	Через вкладку Defects – баг репорты НЕЛЬЗЯ СОЗДАВАТЬ
 •	Баг репорты создаются только через прогонку Test Runs
@@ -51,4 +51,10 @@ Postman и Swagger
 Адрес Swagger: *********
 
 Тестовые стенды
-Тестовый стенд сайта: *********
+Тестовый стенд сайта: http://5.35.83.82/main
+
+Документация:
+
+Макеты: https://www.figma.com/file/uZkixb9CQ1KS6mubWMtGOi/%D0%9C%D0%B0%D0%BA%D0%B5%D1%82%D1%8B-%D0%BC%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD%D0%B0?type=design&node-id=660-1741&mode=design&t=ycWh8JJgAPvb4nsU-0
+Фич-лист: https://docs.google.com/spreadsheets/d/1svTDDpM_88M1vRTok0ci2q06iAxwDgHtqEiCw8fvtWI/edit#gid=1450262909
+
